@@ -9,6 +9,13 @@ Status: Alpha. No documentation. Incomplete. Missing features.
 - "everything is data" instead of "everything is text"
 - modern graphics
 
+#### Videos
+
+- [Overview](https://youtu.be/hpjJJqnkqCw)
+- [7gui demo](https://youtu.be/_WDwqka0s_8)
+- [Instarepl demo](https://youtu.be/ac_ydoqPPWQ?si=qy9VKNekQ4-3bZNn)
+- [Easel Turns One!](https://youtu.be/sceGtaNHxcM?si=hfXorgVxu2BGeui2)
+
 ### Goals
 
 - IDE as a library
@@ -29,11 +36,6 @@ Status: Alpha. No documentation. Incomplete. Missing features.
 #### Slack
 
 - #easel on Clojurians Slack ([invite here](http://clojurians.net/))
-
-#### Videos
-
-- [Overview](https://youtu.be/hpjJJqnkqCw)
-- [7gui demo](https://youtu.be/_WDwqka0s_8)
 
 ### "Roadmap"
 
